@@ -2,7 +2,7 @@
 import './App.css';
 import { useState } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Tasks from './components/tasks';
+import Tasks from './components/Tasks';
 import AddTask from './components/AddTask';
 
 function App() {
